@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hey there, I'm Vicente 👋
+
+## About me 🙋🏼‍♂️
+- Software developer from Porto Alegre, Brazil
+- Information Systems undergraduate at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+- DevOps Intern at Laboratório de Inovação de Software, LIS (en: Software Innovation Lab)
 
 <!--
 **vicente-hofmeister/vicente-hofmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
