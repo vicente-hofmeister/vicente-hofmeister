@@ -4,6 +4,10 @@
 - Software developer from Porto Alegre, Brazil
 - Information Systems undergraduate at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 - DevOps Intern at Laboratório de Inovação de Software, LIS (en: Software Innovation Lab)
+## Contact info 📞
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-hofmeister-113693241/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicente_hofmeister/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentehofmeister@gmail.com)
+
 
 <!--
 **vicente-hofmeister/vicente-hofmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
