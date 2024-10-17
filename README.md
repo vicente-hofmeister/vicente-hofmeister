@@ -16,7 +16,10 @@ I'm focusing on deepening my knowledge about DevOps and AWS services. I'm also l
 ## Contact info 📧
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-hofmeister-113693241/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicente_hofmeister/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentehofmeister@gmail.com)
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-hofmeister&layout=compact&theme=gruvbox) 
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-hofmeister&layout=compact&theme=gruvbox) 
+-->
 <!--
 **vicente-hofmeister/vicente-hofmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
