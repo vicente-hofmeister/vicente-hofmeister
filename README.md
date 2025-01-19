@@ -1,7 +1,7 @@
 # Hey there, I'm Vicente 👋
 
 ## About Me 🙋🏼‍♂️
-I'm a software developer from Porto Alegre, Brazil, Information Systems undergraduate at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), and DevOps Intern at Laboratório de Inovação em Software, LIS (en: Software Innovation Lab).
+I'm a software developer from Porto Alegre, Brazil, Information Systems undergraduate at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), and DevOps and Software Developer Intern at Laboratório de Inovação em Software, LIS (en: Software Innovation Lab).
 
 ## Fields of Interest 🔍
 I'm most interested in back-end development, especially DevOps and AWS services. I also take some interest in front-end development, having some experience with web pages implementation.
